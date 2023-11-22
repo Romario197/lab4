@@ -65,7 +65,7 @@ a {
 main {
 	height: 100vh;
 	background-color: white;
-	background-image: url(image/4.jpg);
+	background-image: url(back.png);
 	background-repeat: no-repeat;
 	margin: 0 auto;
 	background-position: center;
